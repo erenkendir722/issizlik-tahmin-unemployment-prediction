@@ -1,4 +1,4 @@
-# 🇹🇷 Türkiye İşsizlik Oranı Tahmini / Turkey Unemployment Rate Forecasting
+# Türkiye İşsizlik Oranı Tahmini / Turkey Unemployment Rate Forecasting
 
 ---
 
